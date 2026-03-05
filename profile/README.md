@@ -1,36 +1,38 @@
 <div align="center">
 
-<img src="../mario.gif" width="100%" />
+<img src="../futuristic.gif" width="100%" />
 
 <br/>
 
-# `exprmnts`
+# `𝚎𝚡𝚙𝚛𝚖𝚗𝚝𝚜`
 
-**the codebase of onchain exprmnts**
+<samp>the codebase of onchain exprmnts</samp>
 
-*we're building the next MSCHF, but for the trenches.*
+<samp><i>we're building the next MSCHF, but for the trenches.</i></samp>
 
 </div>
 
 ---
 
-the most interesting ideas in crypto always start as exprmnts.
-the meta moves insanely fast. running exprmnts on meta is the funnest thing we could possibly be doing.
+<samp>the most interesting ideas in crypto always start as exprmnts.</samp>
+<samp>the meta moves insanely fast. running exprmnts on meta is the funnest thing we could possibly be doing.</samp>
 
-we assembled a team from the trenches. our first product took 3 days to build.
-it didn't take off — but it proved the only thing that mattered:
+<samp>we assembled a team from the trenches. our first product took 3 days to build.</samp>
+<samp>it didn't take off — but it proved the only thing that mattered:</samp>
 
-**we can ship really, really fast.**
+**`𝚠𝚎 𝚌𝚊𝚗 𝚜𝚑𝚒𝚙 𝚛𝚎𝚊𝚕𝚕𝚢, 𝚛𝚎𝚊𝚕𝚕𝚢 𝚏𝚊𝚜𝚝.`**
+
+<samp>now we're building the future.</samp>
 
 <div align="center">
 
-<img src="../futuristic.gif" width="100%" />
+<img src="../futuristic2.gif" width="100%" />
 
 </div>
 
 ---
 
-### `$ cat playbook.sh`
+### <samp>$ cat playbook.sh</samp>
 
 ```bash
 #!/bin/bash
@@ -50,7 +52,7 @@ next_exprmnt()       # never stop shipping
 
 ---
 
-### `$ ls exprmnts/`
+### <samp>$ ls exprmnts/</samp>
 
 ```
 01_limited_loss_lotry_v2/       # fast cycle lottery. instant dopamine. seeded prize pool.
@@ -63,22 +65,31 @@ next_exprmnt()       # never stop shipping
 08_onchain_treasure_hunt/       # AR/VR clues. IRL exploration. prize pool at the end.
 ```
 
+
+<samp>each one is a seed. some die. some mutate. some take over.</samp>
+
+<div align="center">
+
+<img src="../nature.gif" width="100%" />
+
+</div>
+
 ---
 
-### `$ cat philosophy.md`
+### <samp>$ cat philosophy.md</samp>
 
-exprmnts aren't features. **exprmnts are the product.**
+<samp>exprmnts aren't features.</samp> **`𝚎𝚡𝚙𝚛𝚖𝚗𝚝𝚜 𝚊𝚛𝚎 𝚝𝚑𝚎 𝚙𝚛𝚘𝚍𝚞𝚌𝚝.`**
 
-each exprmnt is:
-- a chance to go viral
-- a revenue event
-- a cultural moment
-- a fast feedback loop with real stakes
+<samp>each exprmnt is:</samp>
+- <samp>a chance to go viral</samp>
+- <samp>a revenue event</samp>
+- <samp>a cultural moment</samp>
+- <samp>a fast feedback loop with real stakes</samp>
 
-if an exprmnt shows breakout demand → we run seasons or spin it out into a full product.
+<samp>if an exprmnt shows breakout demand → we run seasons or spin it out into a full product.</samp>
 
-this is how MSCHF built a brand with a tiny team.
-we're doing it onchain.
+<samp>this is how MSCHF built a brand with a tiny team.</samp>
+<samp>we're doing it onchain.</samp>
 
 ---
 
@@ -88,6 +99,6 @@ we're doing it onchain.
 
 <br/><br/>
 
-**`we ship. we test. we iterate. we win.`**
+**`𝚠𝚎 𝚜𝚑𝚒𝚙. 𝚠𝚎 𝚝𝚎𝚜𝚝. 𝚠𝚎 𝚒𝚝𝚎𝚛𝚊𝚝𝚎. 𝚠𝚎 𝚠𝚒𝚗.`**
 
 </div>
