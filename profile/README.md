@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="mario.gif" width="100%" />
+<img src="../mario.gif" width="100%" />
 
 <br/>
 
@@ -24,7 +24,7 @@ it didn't take off — but it proved the only thing that mattered:
 
 <div align="center">
 
-<img src="futuristic.gif" width="100%" />
+<img src="../futuristic.gif" width="100%" />
 
 </div>
 
@@ -84,7 +84,7 @@ we're doing it onchain.
 
 <div align="center">
 
-<img src="animegirl.gif" width="100%" />
+<img src="../animegirl.gif" width="100%" />
 
 <br/><br/>
 
